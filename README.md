@@ -8,7 +8,7 @@ It explores employee distribution, performance ratings, and salary analytics usi
 - Compare headcount and salaries between India and New Zealand.
 - Analyze employee performance spread.
 - Visualize min, max, and average salaries by department.
-- Observe hiring trends from 2020 to 2023.
+- Observe hiring trends from 2020 to 2023. 
 
 ## 🧩 Tools Used
 - Power BI
