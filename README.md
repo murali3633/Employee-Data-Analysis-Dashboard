@@ -10,7 +10,7 @@ It explores employee distribution, performance ratings, and salary analytics usi
 - Visualize min, max, and average salaries by department.
 - Observe hiring trends from 2020 to 2023. 
 
-## 🧩 Tools Used
+## 🧩 Tools Used 
 - Power BI
 - Microsoft Excel (for data cleaning)
 
